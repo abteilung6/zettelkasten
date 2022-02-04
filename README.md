@@ -1,9 +1,7 @@
 # zettelkasten
 
 ## Ideas
-- change github contribution for given text
-- stock analyzer, financial release crawler
-- cloudbased Zettelkasten, save nots on git
+- ..
 
 ## Learn 2022
 - Kubernetes
@@ -21,6 +19,7 @@
 - portfolio management, https://www.youtube.com/watch?v=8TJQhQ2GZ0Y&t=4319s
 - asset allocation, https://www.youtube.com/watch?v=8rTBEZSL7-4&t=3289s
 - efficient frontier, https://www.youtube.com/watch?v=Ak0X-IjjHkU
+- gordon growth model, Gordon Growth Model
 
 ## economics offtopic
 - fiat money, https://wtfhappenedin1971.com/
