@@ -19,7 +19,7 @@
 - portfolio management, https://www.youtube.com/watch?v=8TJQhQ2GZ0Y&t=4319s
 - asset allocation, https://www.youtube.com/watch?v=8rTBEZSL7-4&t=3289s
 - efficient frontier, https://www.youtube.com/watch?v=Ak0X-IjjHkU
-- gordon growth model, Gordon Growth Model
+- gordon growth model, https://www.youtube.com/watch?v=Wh5vp-UkCpo
 
 ## economics offtopic
 - fiat money, https://wtfhappenedin1971.com/
