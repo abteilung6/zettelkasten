@@ -32,3 +32,5 @@
 - socialize with all sorts of people and create strong networks across compannies
 - know how to play the game in the company, deal with politics and leaderhip
 - strong network (able to promote someone even after the job)
+- people are not good at saying precisely what they mean, interpret his "body language"
+- clarify complex ideas
