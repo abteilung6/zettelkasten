@@ -24,3 +24,11 @@
 ## economics offtopic
 - fiat money, https://wtfhappenedin1971.com/
 
+## tech leading
+- build human connection, to notice "energy changes"
+- one-on-one meeting
+- deliver feedback quickly
+- show larger picture of how the work fits into the teams goals
+- socialize with all sorts of people and create strong networks across compannies
+- know how to play the game in the company, deal with politics and leaderhip
+- strong network (able to promote someone even after the job)
